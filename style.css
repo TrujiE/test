@@ -1,0 +1,61 @@
+body{
+	background-color: black;
+}
+.contenido{
+	background: white;
+	height: 600px;
+	width: 450px;
+	position: absolute;
+	transform: translate(112%,0%);
+}
+.cabecera{
+	height: 80px;
+	width: 450px;
+	display: flex;
+}
+i{
+	font-size: 40px;
+	width: 60px
+}
+.icono-izquierda{
+	text-align: left;
+	width: 8%;
+	padding-left: 13px;
+}
+.icono-derecha{
+	text-align: right;
+	width: 69%
+}
+.textos{
+	padding-top: 15px;
+	display: inline;
+	height: 35px;
+	width: 18%
+}
+.texto1-cabecera{
+	height: 15px;
+	width: 40px;
+}
+.texto2-cabecera{
+	height: 15px;
+	width: 50px;
+}
+.iconos-pie{
+	padding-left: 10px;
+	display: flex;
+}
+.icono-pie-derecha{
+	padding-right: 10px;
+	text-align: right;
+	width: 54%
+}
+.linea-pie{
+	padding-left: 10px;
+}
+.texto-pie{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.pie{
+	text-align: justify
+}
